@@ -13,7 +13,7 @@ public class FirstApplication {
   	}
 	public static void main(String[] args) {
 		SpringApplication.run(FirstApplication.class, args);
-		System.out.println("HI FROM CBANDAS VM");
+		System.out.println("HI FROM CBANDAS VMs");
 	}
 
 }
